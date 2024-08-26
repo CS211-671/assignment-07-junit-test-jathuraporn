@@ -24,7 +24,5 @@ class UserTest {
         assertTrue(actual);
     }
 
-    @Test
-    void testName() {
-    }
+
 }
